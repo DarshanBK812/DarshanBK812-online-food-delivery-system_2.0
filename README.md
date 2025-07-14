@@ -56,7 +56,7 @@ This project is a monolithic Online Food Delivery System built using Spring Boot
 1. **Clone the repository**
 
    ```bash
-   git clone git@github.com:<your-username>/online-food-delivery-system.git
+   git clone git@github.com:DarshanBK812/online-food-delivery-system.git
    cd online-food-delivery-system
    ```
 
@@ -174,3 +174,9 @@ Contributions are welcome! Please follow these steps:
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+* **Name:** Darshan B K
+* **LinkedIn:** [https://www.linkedin.com/in/darshan-b-k-a7b501298](https://www.linkedin.com/in/darshan-b-k-a7b501298)
+* **GitHub:** [https://github.com/DarshanBK812](https://github.com/DarshanBK812)
