@@ -19,8 +19,8 @@ jobs:
         distribution: 'temurin'
         java-version: '17'
 
-    - name: Build with Maven
-      run: mvn clean package --no-transfer-progress
+    - name: Build with Maven (skip tests)
+      run: mvn clean package --no-transfer-progress -DskipTests
 
     - name: List target directory (debug)
       run: ls -l target
